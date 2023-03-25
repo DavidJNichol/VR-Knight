@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2651502473
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 09d04a560ffc4510fe6d7762fe6d4b8a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f4d58da2e394c3ac790f4c422276af4f
+HashAppended: 0
+ClassTypes:
+- Class: 134
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/AutoHand/Examples/Materials/Physics/SuperSlick.physicMaterial
+Dependencies: []

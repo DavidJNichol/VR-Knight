@@ -1,0 +1,55 @@
+ManifestFileVersion: 0
+CRC: 1241340002
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4eb6a8b6cb9d0496e2b795b1541c747f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: d2de8cb89652a45acc3e5ff4ef3b11ec
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 89
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/MedievalHall/Materials/Door.mat
+- Assets/MedievalHall/Materials/black.mat
+- Assets/AutoHand/Examples/Materials/AHRed.mat
+- Assets/MedievalHall/Materials/Window.mat
+- Assets/AutoHand/Examples/Materials/RobotHandProjection.mat
+- Assets/AutoHand/Examples/Materials/AHGreen.mat
+- Assets/MedievalHall/Materials/Glass b.mat
+- Assets/AutoHand/Examples/Materials/AH_Red.mat
+- Assets/AutoHand/Examples/Materials/Highlight/Highlight 2.mat
+- Assets/AutoHand/Examples/Materials/Sample.mat
+- Assets/AutoHand/Examples/Materials/AH_Blue 4.mat
+- Assets/MedievalHall/Materials/Brick B top.mat
+- Assets/MedievalHall/Materials/Lamp.mat
+- Assets/SkySeries Freebie/SkyhighFluffycloudField.mat
+- Assets/MedievalHall/Materials/Brick C.mat
+- Assets/MedievalHall/Materials/Brick B.mat
+- Assets/AutoHand/Examples/Materials/AH_Bright_Green.mat
+- Assets/Medieval sword/Materials/Medieval sword.mat
+- Assets/AutoHand/Examples/Materials/Highlight/Highlight.mat
+- Assets/AutoHand/Examples/Materials/AHPointer 1.mat
+- Assets/AutoHand/Examples/Materials/robot_Roughness.mat
+- Assets/AutoHand/Examples/Materials/AHPointer 2.mat
+- Assets/MedievalHall/Materials/Floor A.mat
+- Assets/AutoHand/Examples/Materials/AH_Purple.mat
+- Assets/Medieval_Hands/Textures&Material/HDRP/Medieval_Hands.mat
+- Assets/AutoHand/Examples/Materials/RobotHand.mat
+- Assets/AutoHand/Examples/Materials/AH_Blue.mat
+- Assets/MedievalHall/Materials/Brick A.mat
+Dependencies:
+- D:/SideProjects/VR Knight (Quest)/OVRAssetBundles/OVRMasterBundle/asset_hdr0
+- D:/SideProjects/VR Knight (Quest)/OVRAssetBundles/OVRMasterBundle/asset_png0
+- D:/SideProjects/VR Knight (Quest)/OVRAssetBundles/OVRMasterBundle/asset_psd0
+- D:/SideProjects/VR Knight (Quest)/OVRAssetBundles/OVRMasterBundle/asset_shader0
+- D:/SideProjects/VR Knight (Quest)/OVRAssetBundles/OVRMasterBundle/asset_tga0

@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 3557137411
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1f8728da6b4dac27b274ac3b428dd9d9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: e6e651bdddca608c77d51fff2e12d033
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 89
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/MedievalHall/DemoScene/ReflectionProbe-0.exr
+- Assets/MedievalHall/DemoScene/Lightmap-5_comp_light.exr
+- Assets/MedievalHall/DemoScene/Lightmap-1_comp_light.exr
+- Assets/MedievalHall/DemoScene/Lightmap-3_comp_light.exr
+- Assets/MedievalHall/DemoScene/Lightmap-0_comp_light.exr
+- Assets/MedievalHall/DemoScene/Lightmap-4_comp_light.exr
+- Assets/MedievalHall/DemoScene/Lightmap-7_comp_light.exr
+- Assets/MedievalHall/DemoScene/Lightmap-8_comp_light.exr
+- Assets/MedievalHall/DemoScene/ReflectionProbe-1.exr
+- Assets/MedievalHall/DemoScene/Lightmap-6_comp_light.exr
+- Assets/MedievalHall/DemoScene/Lightmap-2_comp_light.exr
+Dependencies: []

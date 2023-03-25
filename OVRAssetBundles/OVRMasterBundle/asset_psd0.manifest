@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 4039715968
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d82b3e44c88cb5c1a2f60703f9e9786d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/MedievalHall/Textures/Floor A.psd
+- Assets/MedievalHall/Textures/Brick B.psd
+- Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Font Asset Icon.psd
+- Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Text Component Icon.psd
+- Assets/MedievalHall/Textures/Brick A.psd
+- Assets/MedievalHall/Textures/Brick C.psd
+- Assets/MedievalHall/Textures/Brick B top.psd
+Dependencies: []

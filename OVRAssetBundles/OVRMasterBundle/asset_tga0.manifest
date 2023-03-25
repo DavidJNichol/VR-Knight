@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 3714110228
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 64a2aef93dfdd97a1c116969ec8ce290
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/AutoHand/Examples/Textures/Sample.TGA
+- Assets/AutoHand/Examples/Textures/normal map.TGA
+Dependencies: []

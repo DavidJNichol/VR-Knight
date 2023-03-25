@@ -1,0 +1,47 @@
+ManifestFileVersion: 0
+CRC: 3763119199
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 74ccf9ee399a00d3c73879149ba70d81
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c21d61fe394c58399df3c6fb5c7c99b3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Medieval_Hands/Textures&Material/PBR_Textures/lambert2_Base_Color.png
+- Assets/AutoHand/Examples/Textures/HollowCircle.png
+- Assets/MedievalHall/DemoScene/Lightmap-8_comp_dir.png
+- Assets/Medieval_Hands/Textures&Material/PBR_Textures/lambert2_Mixed_AO.png
+- Assets/AutoHand/Examples/Textures/HollowCircleThick.png
+- Assets/MedievalHall/DemoScene/Lightmap-7_comp_dir.png
+- Assets/MedievalHall/Textures/Brick A N.png
+- Assets/MedievalHall/DemoScene/Lightmap-1_comp_dir.png
+- Assets/Medieval sword/Textures/lp_exp_DefaultMaterial_Normal.png
+- Assets/MedievalHall/DemoScene/Lightmap-3_comp_dir.png
+- Assets/Medieval sword/Textures/lp_exp_DefaultMaterial_AlbedoTransparency.png
+- Assets/MedievalHall/Textures/Brick B top N.png
+- Assets/MedievalHall/Textures/HallGlass_NormalMap.png
+- Assets/Medieval_Hands/Textures&Material/PBR_Textures/lambert2_Normal_DirectX.png
+- Assets/Medieval_Hands/Textures&Material/PBR_Textures/lambert2_Metallic.png
+- Assets/Medieval_Hands/Textures&Material/HDRP/Medieval_Hand_MaskMap.png
+- Assets/Medieval sword/Textures/lp_exp_DefaultMaterial_MetallicSmoothness.png
+- Assets/MedievalHall/Textures/Brick C N.png
+- Assets/MedievalHall/Textures/Floor A N.png
+- Assets/Medieval sword/Textures/AO_map.png
+- Assets/AutoHand/Examples/Textures/robotdiffuse.1001.png
+- Assets/Medieval_Hands/Textures&Material/HDRP/Medieval_Hand_BaseColor.png
+- Assets/MedievalHall/DemoScene/Lightmap-2_comp_dir.png
+- Assets/MedievalHall/DemoScene/Lightmap-4_comp_dir.png
+- Assets/Medieval_Hands/Textures&Material/HDRP/Medieval_Hand_Normal.png
+- Assets/MedievalHall/Textures/Brick B N.png
+- Assets/MedievalHall/DemoScene/Lightmap-5_comp_dir.png
+- Assets/MedievalHall/DemoScene/Lightmap-0_comp_dir.png
+- Assets/MedievalHall/DemoScene/Lightmap-6_comp_dir.png
+Dependencies: []

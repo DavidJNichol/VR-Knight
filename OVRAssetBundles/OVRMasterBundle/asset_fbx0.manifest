@@ -1,0 +1,49 @@
+ManifestFileVersion: 0
+CRC: 20523409
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: aaea46d845e8cb92df150311df1e7a6d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c4fe1fdcbb1a331074c17958100faf9a
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/MedievalHall/Mesh/window.FBX
+- Assets/MedievalHall/Mesh/decor a.FBX
+- Assets/MedievalHall/Mesh/column.FBX
+- Assets/MedievalHall/Mesh/wallfloor.FBX
+- Assets/MedievalHall/Mesh/lamp holder.FBX
+- Assets/MedievalHall/Mesh/arc way.FBX
+- Assets/MedievalHall/Mesh/window down.FBX
+- Assets/MedievalHall/Mesh/arc way top.FBX
+- Assets/MedievalHall/Mesh/plint.FBX
+- Assets/MedievalHall/Mesh/arc enter top.FBX
+- Assets/MedievalHall/Mesh/wall.FBX
+- Assets/MedievalHall/Mesh/door.FBX
+- Assets/MedievalHall/Mesh/lamp.FBX
+- Assets/MedievalHall/Mesh/roof.FBX
+- Assets/MedievalHall/Mesh/arc enter.FBX
+- Assets/MedievalHall/Mesh/window top.FBX
+- Assets/MedievalHall/Mesh/decor a top.FBX
+Dependencies:
+- D:/SideProjects/VR Knight (Quest)/OVRAssetBundles/OVRMasterBundle/asset_psd0
+- D:/SideProjects/VR Knight (Quest)/OVRAssetBundles/OVRMasterBundle/asset_shader0

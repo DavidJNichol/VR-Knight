@@ -1,0 +1,229 @@
+ManifestFileVersion: 0
+CRC: 3368238047
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f4c69c0bffa7a1c960aa4f23b7852b18
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0757fbee3a192635276ba9894f8efe1
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 72
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2705215ac5b84b70bacc50632be6e391, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0bda962a91c41024b9c86bcb7cb57d2f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ad074644ff568a14187a3690cfbd7534, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ab2114bdc8544297b417dfefe9f1e410, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 84a92b25f83d49b9bc132d206b370281, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3863570e7e6387a40ae4f323d83291e5, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 134
+  Script: {instanceID: 0}
+- Class: 138
+  Script: {instanceID: 0}
+- Class: 153
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.FaceInfo_Legacy
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.FontAssetCreationSettings
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.KerningTable
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_Character
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_FontFeatureTable
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_FontWeightPair
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_GlyphAdjustmentRecord
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_GlyphPairAdjustmentRecord
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_GlyphValueRecord
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_Sprite
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_SpriteCharacter
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_SpriteGlyph
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_Style
+- AssemblyName: UnityEngine.TextCoreFontEngineModule
+  ClassName: UnityEngine.TextCore.FaceInfo
+- AssemblyName: UnityEngine.TextCoreFontEngineModule
+  ClassName: UnityEngine.TextCore.Glyph
+- AssemblyName: UnityEngine.TextCoreFontEngineModule
+  ClassName: UnityEngine.TextCore.GlyphMetrics
+- AssemblyName: UnityEngine.TextCoreFontEngineModule
+  ClassName: UnityEngine.TextCore.GlyphRect
+Assets:
+- Assets/MedievalHall/PostProcessing/Resources/Shaders/ScreenSpaceReflection.shader
+- Assets/MedievalHall/PostProcessing/Resources/Bluenoise64/LDR_LLL1_14.png
+- Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Drop Shadow.mat
+- Assets/MedievalHall/PostProcessing/Resources/Bluenoise64/LDR_LLL1_58.png
+- Assets/Oculus/Voice/Lib/Wit.ai/Resources/witai.png
+- Assets/AutoHand/Resources/AutoHandSettings.asset
+- Assets/MedievalHall/PostProcessing/Resources/Bluenoise64/LDR_LLL1_12.png
+- Assets/MedievalHall/PostProcessing/Resources/Shaders/MotionBlur.shader
+- Assets/MedievalHall/PostProcessing/Resources/Bluenoise64/LDR_LLL1_1.png
+- Assets/AutoHand/Resources/Materials/AutoHandEmbelm.mat
+- Assets/MedievalHall/PostProcessing/Resources/Bluenoise64/LDR_LLL1_54.png
+- Assets/Oculus/Voice/Resources/voicesdk_texts_en-us.json
+- Assets/AutoHand/Resources/Righteous-Big.ttf
+- Assets/MedievalHall/PostProcessing/Resources/Bluenoise64/LDR_LLL1_39.png
+- Assets/Oculus/Interaction/Runtime/Resources/Shaders/DepthOverwrite.shader
+- Assets/Oculus/Voice/Lib/Wit.ai/Resources/wit-ai-title.png
+- Assets/AutoHand/Resources/AutoHandEmbelm.png
+- Assets/AutoHand/Resources/CustomJoint.prefab
+- Assets/MedievalHall/PostProcessing/Resources/Bluenoise64/LDR_LLL1_4.png
+- Assets/Oculus/VR/Resources/OVRMRCameraFrameLit.shader
+- Assets/MedievalHall/PostProcessing/Resources/Bluenoise64/LDR_LLL1_30.png
+- Assets/MedievalHall/PostProcessing/Resources/Bluenoise64/LDR_LLL1_10.png
+- Assets/Oculus/VR/Resources/Underlay Impostor.shader
+- Assets/Oculus/VR/Resources/Cubemap Blit.shader
+- Assets/Resources/OVRPlatformToolSettings.asset
+- Assets/Oculus/VR/Resources/Underlay Transparent Occluder.shader
+- Assets/MedievalHall/PostProcessing/Resources/Shaders/EyeAdaptation.shader
+- Assets/AutoHand/Resources/Materials/AutoHandLogo 1.mat
+- Assets/MedievalHall/PostProcessing/Resources/Shaders/GrainGen.shader
+- Assets/MedievalHall/PostProcessing/Resources/Bluenoise64/LDR_LLL1_47.png
+- Assets/TextMesh Pro/Resources/LineBreaking Following Characters.txt
+- Assets/MedievalHall/PostProcessing/Resources/Bluenoise64/LICENSE.txt
+- Assets/Resources/OculusRuntimeSettings.asset
+- Assets/MedievalHall/PostProcessing/Resources/Bluenoise64/LDR_LLL1_46.png
+- Assets/MedievalHall/PostProcessing/Resources/Bluenoise64/LDR_LLL1_5.png
+- Assets/AutoHand/Resources/Friction.physicMaterial
+- Assets/MedievalHall/PostProcessing/Resources/Bluenoise64/LDR_LLL1_2.png
+- Assets/Oculus/VR/Resources/OVRMRUnlitTransparent.shader
+- Assets/MedievalHall/PostProcessing/Resources/Shaders/TAA.shader
+- Assets/Oculus/Voice/Lib/Wit.ai/Resources/witai_texts_en-us.json
+- Assets/MedievalHall/PostProcessing/Resources/Bluenoise64/LDR_LLL1_43.png
+- Assets/MedievalHall/PostProcessing/Resources/Shaders/Bloom.shader
+- Assets/MedievalHall/PostProcessing/Resources/Bluenoise64/COPYING.txt
+- Assets/MedievalHall/PostProcessing/Resources/Bluenoise64/LDR_LLL1_28.png
+- Assets/MedievalHall/PostProcessing/Resources/Bluenoise64/LDR_LLL1_18.png
+- Assets/MedievalHall/PostProcessing/Resources/Bluenoise64/LDR_LLL1_23.png
+- Assets/MedievalHall/PostProcessing/Resources/Bluenoise64/LDR_LLL1_19.png
+- Assets/AutoHand/Resources/Righteous-Regular - Copy.ttf
+- Assets/MedievalHall/PostProcessing/Resources/Bluenoise64/LDR_LLL1_44.png
+- Assets/MedievalHall/PostProcessing/Resources/Bluenoise64/LDR_LLL1_27.png
+- Assets/MedievalHall/PostProcessing/Resources/Bluenoise64/LDR_LLL1_29.png
+- Assets/MedievalHall/PostProcessing/Resources/Bluenoise64/LDR_LLL1_41.png
+- Assets/MedievalHall/PostProcessing/Resources/Bluenoise64/LDR_LLL1_40.png
+- Assets/Oculus/VR/Resources/OVRMRCameraFrame.shader
+- Assets/Resources/ONSPSettings.asset
+- Assets/MedievalHall/PostProcessing/Resources/Bluenoise64/LDR_LLL1_49.png
+- Assets/MedievalHall/PostProcessing/Resources/Bluenoise64/LDR_LLL1_62.png
+- Assets/MedievalHall/PostProcessing/Resources/Bluenoise64/LDR_LLL1_31.png
+- Assets/MedievalHall/PostProcessing/Resources/Bluenoise64/LDR_LLL1_42.png
+- Assets/Oculus/Interaction/Runtime/Resources/Shaders/UnderlayTransparentOccluderImposter.shader
+- Assets/MedievalHall/PostProcessing/Resources/Bluenoise64/LDR_LLL1_0.png
+- Assets/MedievalHall/PostProcessing/Resources/Bluenoise64/LDR_LLL1_61.png
+- Assets/MedievalHall/PostProcessing/Resources/Bluenoise64/LDR_LLL1_3.png
+- Assets/MedievalHall/PostProcessing/Resources/Bluenoise64/LDR_LLL1_24.png
+- Assets/MedievalHall/PostProcessing/Resources/Bluenoise64/LDR_LLL1_26.png
+- Assets/MedievalHall/PostProcessing/Resources/Bluenoise64/LDR_LLL1_51.png
+- Assets/AutoHand/Resources/NoFriction.physicMaterial
+- Assets/TextMesh Pro/Resources/Style Sheets/Default Style Sheet.asset
+- Assets/AutoHand/Resources/Righteous-Regular.ttf
+- Assets/Oculus/VR/Resources/Unlit Transparent Color.shader
+- Assets/Oculus/Voice/Resources/voicesdk_heroart.png
+- Assets/MedievalHall/PostProcessing/Resources/Bluenoise64/LDR_LLL1_20.png
+- Assets/MedievalHall/PostProcessing/Resources/Bluenoise64/LDR_LLL1_35.png
+- Assets/MedievalHall/PostProcessing/Resources/Bluenoise64/LDR_LLL1_60.png
+- Assets/MedievalHall/PostProcessing/Resources/Shaders/EyeHistogram.compute
+- Assets/MedievalHall/PostProcessing/Resources/Bluenoise64/LDR_LLL1_21.png
+- Assets/AutoHand/Resources/Materials/AutoHandEmbelm 1.mat
+- Assets/MedievalHall/PostProcessing/Resources/Shaders/LutGen.shader
+- Assets/MedievalHall/PostProcessing/Resources/Bluenoise64/LDR_LLL1_11.png
+- Assets/AutoHand/Resources/DefaultJoint 1.prefab
+- Assets/AutoHand/Resources/DefaultJoint.prefab
+- Assets/TextMesh Pro/Resources/Sprite Assets/EmojiOne.asset
+- Assets/MedievalHall/PostProcessing/Resources/Bluenoise64/LDR_LLL1_53.png
+- Assets/MedievalHall/PostProcessing/Resources/Bluenoise64/LDR_LLL1_37.png
+- Assets/AutoHand/Resources/SlightFriction.physicMaterial
+- Assets/Plugins/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset
+- Assets/MedievalHall/PostProcessing/Resources/Bluenoise64/LDR_LLL1_36.png
+- Assets/MedievalHall/PostProcessing/Resources/Shaders/Fog.shader
+- Assets/MedievalHall/PostProcessing/Resources/Bluenoise64/LDR_LLL1_57.png
+- Assets/Oculus/Interaction/Runtime/Resources/Shaders/Imposter_AlphaBlended.shader
+- Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Outline.mat
+- Assets/Oculus/Interaction/Runtime/Resources/Shaders/Imposter_Opaque.shader
+- Assets/AutoHand/Resources/Materials/AutoHandLogo 2.mat
+- Assets/MedievalHall/PostProcessing/Resources/Bluenoise64/LDR_LLL1_45.png
+- Assets/MedievalHall/PostProcessing/Resources/Bluenoise64/LDR_LLL1_22.png
+- Assets/MedievalHall/PostProcessing/Resources/Bluenoise64/LDR_LLL1_55.png
+- Assets/MedievalHall/PostProcessing/Resources/Bluenoise64/LDR_LLL1_9.png
+- Assets/MedievalHall/PostProcessing/Resources/Bluenoise64/LDR_LLL1_48.png
+- Assets/MedievalHall/PostProcessing/Resources/Bluenoise64/LDR_LLL1_56.png
+- Assets/MedievalHall/PostProcessing/Resources/Bluenoise64/LDR_LLL1_33.png
+- Assets/Oculus/Interaction/Runtime/Resources/Shaders/Imposter_AlphaCutout.shader
+- Assets/Oculus/Interaction/Runtime/Resources/Shaders/Imposter_AlphaToMask.shader
+- Assets/Oculus/Interaction/Runtime/Resources/Shaders/UIOverlay.shader
+- Assets/MedievalHall/PostProcessing/Resources/Bluenoise64/LDR_LLL1_7.png
+- Assets/Resources/OVRBuildConfig.asset
+- Assets/AutoHand/Resources/Materials/AutoHandLogo.mat
+- Assets/MedievalHall/PostProcessing/Resources/Bluenoise64/LDR_LLL1_13.png
+- Assets/Oculus/VR/Resources/OVRMRUnlit.shader
+- Assets/MedievalHall/PostProcessing/Resources/Shaders/Blit.shader
+- Assets/MedievalHall/PostProcessing/Resources/Bluenoise64/LDR_LLL1_52.png
+- Assets/TextMesh Pro/Resources/TMP Settings.asset
+- Assets/MedievalHall/PostProcessing/Resources/Shaders/FXAA.shader
+- Assets/MedievalHall/PostProcessing/Resources/Shaders/DepthOfField.shader
+- Assets/MedievalHall/PostProcessing/Resources/Shaders/AmbientOcclusion.shader
+- Assets/MedievalHall/PostProcessing/Resources/Bluenoise64/LDR_LLL1_8.png
+- Assets/MedievalHall/PostProcessing/Resources/Bluenoise64/LDR_LLL1_50.png
+- Assets/MedievalHall/PostProcessing/Resources/Bluenoise64/LDR_LLL1_17.png
+- Assets/MedievalHall/PostProcessing/Resources/Shaders/Uber.shader
+- Assets/MedievalHall/PostProcessing/Resources/Bluenoise64/LDR_LLL1_16.png
+- Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset
+- Assets/MedievalHall/PostProcessing/Resources/Bluenoise64/LDR_LLL1_15.png
+- Assets/AutoHand/Resources/AutoHandLogo.png
+- Assets/MedievalHall/PostProcessing/Resources/Bluenoise64/LDR_LLL1_59.png
+- Assets/Oculus/Interaction/Runtime/Resources/Shaders/Imposter_Underlay.shader
+- Assets/Oculus/Interaction/Runtime/Resources/Shaders/Imposter_Underlay_AA.shader
+- Assets/MedievalHall/PostProcessing/Resources/Shaders/BuiltinDebugViews.shader
+- Assets/MedievalHall/PostProcessing/Resources/Bluenoise64/LDR_LLL1_25.png
+- Assets/MedievalHall/PostProcessing/Resources/Bluenoise64/LDR_LLL1_32.png
+- Assets/MedievalHall/PostProcessing/Resources/Bluenoise64/LDR_LLL1_38.png
+- Assets/Oculus/Voice/Lib/Wit.ai/Resources/continue-with-fb.png
+- Assets/MedievalHall/PostProcessing/Resources/Bluenoise64/LDR_LLL1_6.png
+- Assets/TextMesh Pro/Resources/LineBreaking Leading Characters.txt
+- Assets/Oculus/VR/Resources/Texture2D Blit.shader
+- Assets/MedievalHall/PostProcessing/Resources/Bluenoise64/LDR_LLL1_63.png
+- Assets/MedievalHall/PostProcessing/Resources/Bluenoise64/LDR_LLL1_34.png
+- Assets/AutoHand/Resources/AutoHandLogo 1.png
+Dependencies:
+- D:/SideProjects/VR Knight (Quest)/OVRAssetBundles/OVRMasterBundle/asset_asset0
+- D:/SideProjects/VR Knight (Quest)/OVRAssetBundles/OVRMasterBundle/asset_shader0
+- D:/SideProjects/VR Knight (Quest)/OVRAssetBundles/OVRMasterBundle/asset_ttf0
